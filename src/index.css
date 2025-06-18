@@ -1,0 +1,30 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+}
+ 
+html,
+body,
+#root {
+  margin: 0;
+  width: 100%;
+  height: 100%;
+}
+
+/* styling for toggle button, needs position:absolute to show over map  */
+
+.button {
+  background-color: #ffe822;
+  font-family: inherit;
+  position: absolute;
+  line-height: 12px;
+  width: 120px;
+  height: 120px;
+  font-size: 8pt;
+  font-family: tahoma;
+  margin-top: 1px;
+  margin-right: 2px;
+  position:absolute;
+  top:0;
+  right:0;
+}
+ 
