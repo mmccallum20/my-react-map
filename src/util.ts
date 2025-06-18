@@ -8,8 +8,8 @@ export const townData: Feature<Polygon> = {
     name: "Marignier",
   },
 
-  // coordinates sourced from https://mapit.mysociety.org/area/68547.html
-  
+  // Hillingdon county coordinates sourced from https://mapit.mysociety.org/area/68547.html
+
   geometry: {
     type: "Polygon",
     coordinates: [
